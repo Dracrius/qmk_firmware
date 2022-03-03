@@ -6,4 +6,5 @@ COMMAND_ENABLE = no
 WEBUSB_ENABLE = yes
 ORYX_ENABLE = yes
 OPENRGB_ENABLE = yes
+MOUSE_SHARED_EP = yes
 SRC = matrix.c
