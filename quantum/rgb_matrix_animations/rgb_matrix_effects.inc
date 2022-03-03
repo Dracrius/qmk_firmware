@@ -32,3 +32,4 @@
 #include "rgb_matrix_animations/solid_reactive_nexus.h"
 #include "rgb_matrix_animations/splash_anim.h"
 #include "rgb_matrix_animations/solid_splash_anim.h"
+#include "rgb_matrix_animations/openrgb_direct_anim.h"
