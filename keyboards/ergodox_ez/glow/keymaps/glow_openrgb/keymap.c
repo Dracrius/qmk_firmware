@@ -103,6 +103,15 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   ),
 };
 
+void matrix_init_user(void)
+{
+  //user initialization
+}
+
+void matrix_scan_user(void)
+{
+  //user matrix
+}
 
 extern bool g_suspend_state;
 extern rgb_config_t rgb_matrix_config;
