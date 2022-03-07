@@ -19,7 +19,7 @@
     USB VID: 3297
     USB PID: 4976
 
-![Protocol Settings](https://imgur.com/00CzmyJ.png)
+![Protocol Settings](https://i.imgur.com/AQLK0jV.png)
 
 ## List of OpenRGB Modified Files
 
