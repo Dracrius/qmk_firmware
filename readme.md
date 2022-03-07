@@ -1,6 +1,6 @@
 # Dracrius' fork of ZSA's fork of QMK Firmware With OpenRGB Support 
 
-![OpenRGB Devices](https://imgur.com/caRzmxL.png)
+![OpenRGB Devices](https://i.imgur.com/WELbAyR.png)
 
 ## ZSA's Current
 
